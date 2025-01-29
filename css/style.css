@@ -1,0 +1,46 @@
+.sous-titre1{
+    color:orange;
+}
+.titre1{
+    font-size:50px;
+}
+.card-spec{
+    background-color: rgb(235,245,238);
+    padding: 5%; 
+    border-radius: 10px;
+}
+.card-spec:hover{
+    background-color: white;
+    padding: 5%; 
+    border-radius: 10px;
+    color: orange;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+}
+.card-right{
+    background-color: rgb(235,245,238);
+    padding: 5%; 
+    border-radius: 10px;
+}
+.card-right:hover{
+    background-color: white;
+    padding: 5%; 
+    border-radius: 10px;
+    color: orange;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    
+
+    }
+    .card-lifet:hover{
+        background-color: white;
+        padding: 5%; 
+        border-radius: 10px;
+        color: orange;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    }
+
+        .card-sayhello{
+            background-color: black;
+            padding-top:  27%; 
+            border-radius: 10px;  
+            color:white;                  
+        }
