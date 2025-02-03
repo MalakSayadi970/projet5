@@ -1,5 +1,6 @@
 .sous-titre1{
     color:orange;
+    font-size: 22px;
 }
 .titre1{
     font-size:50px;
@@ -30,7 +31,7 @@
     
 
     }
-    .card-lifet:hover{
+    .card-spect:hover{
         background-color: white;
         padding: 5%; 
         border-radius: 10px;
@@ -43,4 +44,137 @@
             padding-top:  27%; 
             border-radius: 10px;  
             color:white;                  
+        }
+        .btn-right{
+            background: black;
+            border-radius: 10px;
+            color: white;
+
+        }
+
+    .btn-right:hover{
+            background: white;
+            border-radius: 10%;
+            color: black;
+            
+            
+        }
+        .text-award{
+            font-size: small;
+        }
+        .text-worlwide{
+            font-size: small;
+        }
+        .text-job{
+            font-size: small;
+        }
+        .btn-all{
+            background-color: white; 
+            border-radius: 10px;
+            color: black;
+            font-size: 50px;
+        }
+        .btn-all:hover{
+           bg: black;
+            border-radius: 10%;
+            color: white ;
+            box-shadow: 15px;  
+        }
+        .text-lokmani{
+            font-size: 60px;
+        }
+        .text-based{
+            font-size: 40px;
+        }
+        .text-over{
+            font-size: 50px;
+        }
+        .text-all{
+            font-size: 27px;
+        }
+        .bg-color{
+            background-color: pink;
+        }
+        .btn-app{
+            background: pink;
+            border-radius: 10px;
+            color: black;
+        }
+        .btn-app:hover{
+           background: black;
+            border-radius: 10px; 
+            color: white;
+             box-shadow: black;
+        }
+        .text-bansinik{
+            color: black;
+        }
+        .text-bansinik:hover{
+            color: orange;
+
+        }
+        .btn-view{
+            background: black;
+            border-radius:10px;
+            color: white;
+        }
+        .btn-view:hover{
+            background: white;
+            color: black;
+
+        }
+        .text-client{
+            font-size: 55px;
+        }
+        .size-titre{
+            font-size: medium;
+        }
+        .text-promoxe{
+            font-size: small;
+        }
+        .text-myblog{
+            font-size: 60px;
+        }
+        .image-blog{
+            border-radius: 10px;
+            padding:1%;
+        
+        }
+        .text-blog{
+            color: black;
+            font-size: 23px;
+        }
+        .text-blog:hover{
+            color: orange;
+            font-size: 23px;
+        }
+        .text-UI{
+            font-size: 15px;
+        }
+        .Num-30{
+            font-size: 40px;
+        }
+        .Num-15{
+            font-size: 15px;
+        }
+        .card-spec1{
+            background-color: rgb(235,245,238);
+            padding: 5%; 
+            border-radius: 10px;
+        }
+        .card-spec1:hover{
+            background-color: white;
+            padding: 5%; 
+            border-radius: 10px;
+            box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+        }
+        .sous-Num{
+            font-size: small;
+            color: orange;
+        }
+        .arrow-hover{
+            color: black;
+        }
+        .arrow-hover:hover{
+            color: orange;
         }
